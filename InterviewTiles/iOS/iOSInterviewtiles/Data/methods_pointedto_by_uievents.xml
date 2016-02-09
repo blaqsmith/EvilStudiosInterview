@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Tile">
+			<method name="OnPointerDown"/>
+			<method name="OnPointerUp"/>
+		</type>
+		<type fullname="GameLogic">
+			<method name="OnPlayAgainClicked"/>
+		</type>
+	</assembly>
+</linker>
